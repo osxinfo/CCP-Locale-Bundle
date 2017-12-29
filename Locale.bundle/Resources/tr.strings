@@ -71,117 +71,117 @@
 "Make Upper Case" = "Büyük Harf Kullan";
 "Make Lower Case" = "Küçük harf kullan";
 "Capitalize" = "Capitalize";
-"Speech" = "Speech";
-"Start Speaking" = "Start Speaking";
-"Stop Speaking" = "Stop Speaking";
+"Speech" = "Konuşma";
+"Start Speaking" = "Konuşmayı başlat";
+"Stop Speaking" = "Konuşmayı durdur";
 
-"Start Dictation…" = "Start Dictation…";
-"Emoji & Symbols" = "Emoji & Symbols";
+"Start Dictation…" = "Dikte başlat…";
+"Emoji & Symbols" = "Emoji & Semboller";
 "Format" = "Format";
 "Font" = "Font";
-"Show Fonts" = "Show Fonts";
-"Bold" = "Bold";
-"Italic" = "Italic";
-"Underline" = "Underline";
+"Show Fonts" = "Fontları Göster";
+"Bold" = "Kalın";
+"Italic" = "İtalik";
+"Underline" = "Altı çizgili";
 
-"Bigger" = "Bigger";
-"Smaller" = "Smaller";
+"Bigger" = "Daha büyük";
+"Smaller" = "Daha küçük";
 
 "Kern" = "Kern";
-"Use Default" = "Use Default";
-"Use None" = "Use None";
-"Tighten" = "Tighten";
-"Loosen" = "Loosen";
-"Ligatures" = "Ligatures";
-"Use All" = "Use All";
-"Baseline" = "Baseline";
-"Superscript" = "Superscript";
-"Subscript" = "Subscript";
-"Raise" = "Raise";
-"Lower" = "Lower";
+"Use Default" = "Mtanımlı Kullan";
+"Use None" = "Hiçbiri";
+"Tighten" = "Sıkıştır";
+"Loosen" = "Aç";
+"Ligatures" = "Bir araya getir";
+"Use All" = "Hepsini kullan";
+"Baseline" = "Taban";
+"Superscript" = "üstsimge";
+"Subscript" = "altsimge";
+"Raise" = "Daha fazla";
+"Lower" = "Daha az";
 
-"Show Colors" = "Show Colors";
+"Show Colors" = "Renkleri Göster";
 
-"Copy Style" = "Copy Style";
-"Paste Style" = "Paste Style";
-"Text" = "Text";
-"Align Left" = "Align Left";
-"Center" = "Center";
-"Justify" = "Justify";
-"Align Right" = "Align Right";
+"Copy Style" = "Stili kopyala";
+"Paste Style" = "Stili yapıştır";
+"Text" = "Yazı";
+"Align Left" = "Sola hizala";
+"Center" = "Merkez";
+"Justify" = "Doğrula";
+"Align Right" = "Sağa hizala";
 
-"Writing Direction" = "Writing Direction";
-"Paragraph" = "Paragraph";
-"    Default" = "    Default";
-"    Left to Right" = "    Left to Right";
-"    Right to Left" = "    Right to Left";
+"Writing Direction" = "Yazı Yönü";
+"Paragraph" = "paragraf";
+"    Default" = "    Öntanımlı";
+"    Left to Right" = "    Soldan sağa";
+"    Right to Left" = "    Sağdan sola";
 
-"Selection" = "Selection";
-"Show Ruler" = "Show Ruler";
-"Copy Ruler" = "Copy Ruler";
-"Paste Ruler" = "Paste Ruler";
+"Selection" = "Seçim";
+"Show Ruler" = "Kuralı Göster";
+"Copy Ruler" = "Kuralı Kopyala";
+"Paste Ruler" = "Kuralı yapıştır";
 "View" = "View";
-"Show Toolbar" = "Show Toolbar";
+"Show Toolbar" = "Araç Çubuğunu Göster";
 
-"Show Sidebar" = "Show Sidebar";
-"Enter Full Screen" = "Enter Full Screen";
-"Window" = "Window";
-"Minimize" = "Minimize";
-"Zoom" = "Zoom";
+"Show Sidebar" = "Kenar Çubuğunu Göster";
+"Enter Full Screen" = "Tam Ekran moduna geç";
+"Window" = "Pencere";
+"Minimize" = "Küçült";
+"Zoom" = "Yakınlaştır";
 
-"Bring All to Front" = "Bring All to Front";
-"Help" = "Help";
-"Clover Configurator Pro Help" = "Clover Configurator Pro Help";
+"Bring All to Front" = "Herşeyi çne çıkar";
+"Help" = "yardım";
+"Clover Configurator Pro Help" = "Clover Configurator Pro yardım";
 /* ----------------- */
-"download and build Clover using Build_Clover.command" = "download and build Clover using Build_Clover.command";
-"open Build_Clover.command" = "open Build_Clover.command";
-"edit BuildCloverConfig.txt" = "edit BuildCloverConfig.txt";
+"download and build Clover using Build_Clover.command" = "Build_Clover.command indir ve bootloader oluştur";
+"open Build_Clover.command" = "Build_Clover.command aç";
+"edit BuildCloverConfig.txt" = " BuildCloverConfig.txt düzenle";
 /* ----------------- */
 /* Untitled, no title for a new document */
-"Untiteled" = "Untiteled";
+"Untiteled" = "Başlıksız";
 
 /* Search in your language. */
-"Search" = "Search";
+"Search" = "Ara";
 
 /* OK in your language. */
-"OK" = "OK";
+"OK" = "Tamam";
 
 /* Replace in your language. Used in the Find And Replace view */
-"Replace" = "Replace";
+"Replace" = "Yerine koy";
 
 /* ask if you are sure of any of your actions you are attempting to do */
-"Sure?" = "Sure?";
+"Sure?" = "Emin misin?";
 /* copy to paste board */
-"copy to paste board" = "copy to paste board";
+"copy to paste board" = "Panoya Kopyala";
 
 /* Tags for the plist */
-"Unsupported" = "Unsupported";
-"Dictionary"  = "Dictionary";
-"Array"       = "Array";
-"String"      = "String";
-"Number"      = "Number";
+"Unsupported" = "Desteklenmiyor";
+"Dictionary"  = "Sözlük";
+"Array"       = "Dizi";
+"String"      = "Dizi";
+"Number"      = "Numara";
 "Bool"        = "Bool";
-"Date"        = "Date";
+"Date"        = "Gün";
 "Data"        = "Data";
-"YES"         = "YES";
-"NO"         = "NO";
+"YES"         = "EVET";
+"NO"         = "HAYIR";
 
 
 /* "Key/Type/Value" are column header name for the plist editor */
-"Key" = "Key";
-"Type" = "Type";
-"Value" = "Value";
+"Key" = "ANAHTAR";
+"Type" = "TİP";
+"Value" = "DEĞER";
 
 /* Item, singular */
-"Item" = "Item";
+"Item" = "ÖĞE";
 /* Items, plural */
-"Items" = "Items";
+"Items" = "ÖĞELER";
 
 /* New Item for the plist */
-"New Item" = "New Item";
+"New Item" = "Yeni Öğe";
 
 /* bytes, like 00abff00, hex representation */
-"bytes" = "bytes";
+"bytes" = "bitler";
 
 // Undo and Redo -----------------------------------------------------------------------------------------------
 /* You will see \"Undo/Redo typing\" after typing something under \"Value\" column */

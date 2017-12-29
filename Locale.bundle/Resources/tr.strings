@@ -6,70 +6,70 @@
  Copyright © 2017 M79 Software. All rights reserved.
  */
 
-/* Application Menu */
+/* Uygulama Menüsü */
 /* ----------------- */
-"About Clover Configurator Pro" = "About Clover Configurator Pro";
-"Preferences…" = "Preferences…";
-"Check for updates" = "Check for updates";
-"Services" = "Services";
-"No Services Apply" = "No Services Apply";
-"Hide Clover Configurator Pro" = "Hide Clover Configurator Pro";
-"Hide Others" = "Hide Others";
-"Show All" = "Show All";
-"Quit Clover Configurator Pro" = "Quit Clover Configurator Pro";
+"About Clover Configurator Pro" = "Clover Configurator Pro Hakkında";
+"Preferences…" = "Tercihler…";
+"Check for updates" = "Güncellemeleri Denetle";
+"Services" = "Servsler";
+"No Services Apply" = "Hizmet Uygulanmaz";
+"Hide Clover Configurator Pro" = "Clover Configurator Pro Uygulamasını gizle";
+"Hide Others" = "Diğerlerini gizle";
+"Show All" = "Hepsini göster";
+"Quit Clover Configurator Pro" = "Clover Configurator Pro uygulamasından çık.";
 /* ----------------- */
 "Clover Configurator Pro always keeps Build_Clover.command up to date and is located at \"%@/CCP/\" by this application.\nIf you're used to place Clover's source code in a different location than ~/src (the default location), click on \"Close\" otherwise that will be used.\n\nIf this is the first time you use Build_Clover.command remember that Xcode has to be installed!" = "Clover Configurator Pro always keeps Build_Clover.command up to date and is located at \"%@/CCP/\" by this application.\nIf you're used to place Clover's source code in a different location than ~/src (the default location), click on \"Close\" otherwise that will be used.\n\nIf this is the first time you use Build_Clover.command remember that Xcode has to be installed!";
 /* ----------------- */
-"File" = "File";
-"New" = "New";
-"Open…" = "Open…";
-"Open Recent" = "Open Recent";
-"Clear Menu" = "Clear Menu";
-"Close" = "Close";
-"<<Close All - unlocalized>>" = "Close All";
-"Save…" = "Save…";
-"Save As…" = "Save As…";
-"Revert to Saved" = "Revert to Saved";
-"Page Setup…" = "Page Setup…";
-"Print…" = "Print…";
+"File" = "Dosya";
+"New" = "Yeni";
+"Open…" = "Aç…";
+"Open Recent" = "Son Açılan Dosyayı aç";
+"Clear Menu" = "Menüyü Temizle";
+"Close" = "Kapat";
+"<<Close All - unlocalized>>" = "Hepsini kapa";
+"Save…" = "Kaydet…";
+"Save As…" = "Farklı kaydet…";
+"Revert to Saved" = "Kaydedilenleri geri al";
+"Page Setup…" = "Sayfa ayarı…";
+"Print…" = "Yazdır…";
 /* ----------------- */
-"Edit" = "Edit";
-"Undo" = "Undo";
-"Redo" = "Redo";
-"Cut" = "Cut";
-"Copy" = "Copy";
-"Paste" = "Paste";
-"Paste and Match Style" = "Paste and Match Style";
-"Delete" = "Delete";
-"Select All" = "Select All";
+"Edit" = "Düzenle";
+"Undo" = "Geri Al";
+"Redo" = "Baştan başla";
+"Cut" = "Kes";
+"Copy" = "Kopayala";
+"Paste" = "Yapıştır";
+"Paste and Match Style" = "Stili Yapıştır ve Eşleştir";
+"Delete" = "Sil";
+"Select All" = "Hepsini Seç";
 
-"Find" = "Find";
-"Find…" = "Find…";
-"Find and Replace…" = "Find and Replace…";
-"Find Next" = "Find Next";
-"Find Previous" = "Find Previous";
-"Use Selection for Find" = "Use Selection for Find";
-"Jump to Selection" = "Jump to Selection";
-"Spelling and Grammar" = "Spelling and Grammar";
-"Spelling" = "Spelling";
-"Show Spelling and Grammar" = "Show Spelling and Grammar";
-"Check Document Now" = "Check Document Now";
+"Find" = "Bul";
+"Find…" = "Bul…";
+"Find and Replace…" = "Bul ve Değiştir…";
+"Find Next" = "Sonrakini bul";
+"Find Previous" = "Öncekini bul";
+"Use Selection for Find" = "Seçilen ile ara";
+"Jump to Selection" = "Seçime git";
+"Spelling and Grammar" = "Yazım ve Dil Bilgisi";
+"Spelling" = "Yazım";
+"Show Spelling and Grammar" = "Yazım ve Dil Bilgisini Göster";
+"Check Document Now" = "belgeyi kontrol edin";
 
-"Check Spelling While Typing" = "Check Spelling While Typing";
-"Check Grammar With Spelling" = "Check Grammar With Spelling";
-"Correct Spelling Automatically" = "Correct Spelling Automatically";
-"Substitutions" = "Substitutions";
-"Show Substitutions" = "Show Substitutions";
+"Check Spelling While Typing" = "Yazarken Yazım Denetimi Yap";
+"Check Grammar With Spelling" = "Grameri Yazım Denetimi ile Kontrol Edin";
+"Correct Spelling Automatically" = "Yazımı Otomatik Olarak Düzelt";
+"Substitutions" = "Değişiklikler";
+"Show Substitutions" = "Değişiklikleri Göster";
 
-"Smart Copy/Paste" = "Smart Copy/Paste";
-"Smart Quotes" = "Smart Quotes";
-"Smart Dashes" = "Smart Dashes";
-"Smart Links" = "Smart Links";
-"Data Detectors" = "Data Detectors";
-"Text Replacement" = "Text Replacement";
-"Transformations" = "Transformations";
-"Make Upper Case" = "Make Upper Case";
-"Make Lower Case" = "Make Lower Case";
+"Smart Copy/Paste" = "Akıllı Kopyala/Yapıştır";
+"Smart Quotes" = "Akıllı Alıntı";
+"Smart Dashes" = "Akıllı çizgiler";
+"Smart Links" = "Akıllı bağlantılar";
+"Data Detectors" = "Veri Dedektörleri";
+"Text Replacement" = "Metin Değiştirme";
+"Transformations" = "Dönüşümler";
+"Make Upper Case" = "Büyük Harf Kullan";
+"Make Lower Case" = "Küçük harf kullan";
 "Capitalize" = "Capitalize";
 "Speech" = "Speech";
 "Start Speaking" = "Start Speaking";
